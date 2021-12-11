@@ -11,7 +11,7 @@ int main(){
   }
   nMassimo(numeri , dimensione);
   
-  cout << nMassimo(numeri, dimensione) << endl;
+    cout << nMassimo(numeri, dimensione) << endl;
   
   return 0;
 }
